@@ -5,6 +5,7 @@
 ## 使用
 ```
 cd cli_demo
+npm install
 node index.js init <anyId>
 ```
 
